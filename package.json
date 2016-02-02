@@ -1,0 +1,25 @@
+{
+    "name": "sample",
+    "version": "1.0.0",
+    "description": "Sample npm file",
+    "author": "bttalic",
+    "license": "ISC",
+    "dependencies": {
+        "gulp": "3.9.0",
+        "gulp-webserver": "0.9.1",
+        "gulp-watch": "4.3.5",
+        "gulp-inject": "3.0.0",
+        "gulp-bower": "0.0.13",
+        "gulp-natural-sort": "0.1.1",
+        "gulp-flatten": "0.2.0",
+        "gulp-filter": "3.0.1",
+        "gulp-clean": "0.3.1",
+        "browser-sync": "2.11.1",
+        "gulp-angular-filesort": "1.1.1",
+        "main-bower-files": "2.11.1",
+        "jasmine-core": "^2.2.0",
+        "karma": "^0.12.31",
+        "karma-jasmine": "^0.3.5",
+        "karma-phantomjs-launcher": "^0.1.4"
+    }
+}
